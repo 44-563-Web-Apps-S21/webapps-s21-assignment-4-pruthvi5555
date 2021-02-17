@@ -1,0 +1,30 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.stage-direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+    color: black;
+    background-color: rgb(220,200,165);
+}
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.stage-direction:hover{
+    background-color: rgb(112, 76, 146);
+    color:black;
+}
+.LADYANNE{
+    color: rgb(155, 59, 59);
+}
+.GLOUCESTER{
+    color: rgb(189, 70, 70);
+}
+.Gentleman{
+    color:rgb(74, 64, 175);
+}
