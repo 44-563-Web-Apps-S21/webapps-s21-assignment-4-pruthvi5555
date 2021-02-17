@@ -8,7 +8,7 @@
     font-size: medium;
     font-style: italic;
     color: black;
-    background-color: rgb(220,200,165);
+    background-color: rgb(201, 152, 67);
 }
 .name{
     font-family: 'Times New Roman', Times, serif;
@@ -16,15 +16,16 @@
     color: black;
 }
 .stage-direction:hover{
-    background-color: rgb(112, 76, 146);
+    background-color: rgb(131, 83, 177);
     color:black;
 }
 .LADYANNE{
-    color: rgb(155, 59, 59);
+    color: rgb(180, 63, 63);
 }
 .GLOUCESTER{
-    color: rgb(189, 70, 70);
+    color: rgb(39, 201, 33);
 }
 .Gentleman{
-    color:rgb(74, 64, 175);
+    color:rgb(44, 37, 121);
+
 }
