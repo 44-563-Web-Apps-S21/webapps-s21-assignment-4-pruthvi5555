@@ -29,3 +29,24 @@
     color:rgb(44, 37, 121);
 
 }
+table { 
+    margin-top:40px;
+    margin-left:60px;
+    border: solid 4px rgba(48, 202, 17, 0.795);
+    }
+
+th {
+    background-color: rgb(221, 224, 15);
+    border: solid 2px ;
+    text-align: center;
+    font-size: larger;
+    padding: 20px;
+}
+td{
+    border: solid 2px ;
+    text-align: center;
+    font-size: medium;
+    padding: 20px;
+}
+tr:nth-child(even)
+    {background-color: #ddd1d2;} 
