@@ -48,5 +48,18 @@ td{
     font-size: medium;
     padding: 20px;
 }
-tr:nth-child(even)
-    {background-color: #ddd1d2;} 
+.name:hover{
+    text-shadow: 5px 3px 8px rgb(6, 19, 95);
+    border-style: dashed;
+    border-width: thick;
+    border-width: 10px;
+    display:inline;
+}
+
+    .GLOUCESTER{
+        color:rgb(150, 65, 65)
+        } 
+    .LADYANNE{
+        color:rgb(44, 121, 194, 0.295)
+    }
+    
